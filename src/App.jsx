@@ -1,8 +1,15 @@
 import React from "react";
+import NavBar from "./components/NavBar";
+import Footer from "./Footer";
+import Banner from "./components/Banner";
 
 const App = () =>{
   return (
-    <h1>Hola Mundo!</h1>
+    <div>
+      <NavBar/>
+      <Banner/>
+      <Footer/>
+    </div>
   )
 }
 
