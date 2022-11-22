@@ -2,7 +2,7 @@ import React from "react";
 
 const Banner = () => {
     return(
-        <div class="container text-center">
+        <div className="container text-center">
             <div className="row justify-content-around">
                 <div className="col-3 shadow p-3 mb-5 bg-body rounded">
                     <p><img src="imgs/af1-looney-tunes.jpg" alt="zapatillas af1 looney tunes balcnas y celestes" className="img-fluid"/></p>

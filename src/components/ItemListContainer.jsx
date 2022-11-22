@@ -4,7 +4,7 @@ const ItemListContainer = ({greeting}) =>{
     return(
         <div className="container">
             <div className="col-md-12">
-                <div class="alert alert-dark text-center" role="alert">
+                <div className="alert alert-dark text-center" role="alert">
                     {greeting}
                 </div>
             </div>
