@@ -3,3 +3,11 @@
 .WhitCol{
     color: white;
 }
+
+/* clases bannner */
+
+.imgBanner{
+    width: 90vw;
+    height: 100vh;
+}
+

@@ -8,6 +8,7 @@ const Footer = () => {
                 <p>Metodos de pago:<img src="imgs/FormasDePago.png" alt="formas de pago, MercadoPago, visa, MasterCard, Rapipago, PagoFacil"/></p>
             </div>
             <div className="bg-dark">
+            <a className="d-flex align-items-center" href="App.jsx"><img src="imgs/favicon.ico" alt="imagen zapatilla logo" width="50"/></a>
                 <div className="container text-center">
                     <div className="row ">
                         <div className="col-4 WhitCol">
