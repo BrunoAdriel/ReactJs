@@ -4,8 +4,10 @@ import '../App.css';
 const Banner = () => {
     return(
         <div>
-            <div>
-                <p className="d-flex justify-content-center"><img src="imgs/Banner1.jpg" alt="logo de nike con fondo negro" className="imgBanner"></img></p>
+            <div className="container">
+                <div className="d-flex justify-content-center"><img src="imgs/Banner1.jpg" alt="logo de nike con fondo negro" className="imgBanner"></img></div>
+                    <p className="d-flex justify-content-end fw-bold text-uppercase lh-base fs-1 textRigth WhitCol">You want it we got it</p>
+
             </div>
             <div className="container text-center">
                 <div className="row justify-content-around">
